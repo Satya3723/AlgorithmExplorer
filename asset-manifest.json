@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/AlgorithmExplorer/static/css/main.bfd6572a.chunk.css",
+    "main.js": "/AlgorithmExplorer/static/js/main.c745d028.chunk.js",
+    "main.js.map": "/AlgorithmExplorer/static/js/main.c745d028.chunk.js.map",
+    "runtime-main.js": "/AlgorithmExplorer/static/js/runtime-main.00c057a8.js",
+    "runtime-main.js.map": "/AlgorithmExplorer/static/js/runtime-main.00c057a8.js.map",
+    "static/css/2.cfdda2d9.chunk.css": "/AlgorithmExplorer/static/css/2.cfdda2d9.chunk.css",
+    "static/js/2.5523de8e.chunk.js": "/AlgorithmExplorer/static/js/2.5523de8e.chunk.js",
+    "static/js/2.5523de8e.chunk.js.map": "/AlgorithmExplorer/static/js/2.5523de8e.chunk.js.map",
+    "static/js/3.fc202e58.chunk.js": "/AlgorithmExplorer/static/js/3.fc202e58.chunk.js",
+    "static/js/3.fc202e58.chunk.js.map": "/AlgorithmExplorer/static/js/3.fc202e58.chunk.js.map",
+    "index.html": "/AlgorithmExplorer/index.html",
+    "static/css/2.cfdda2d9.chunk.css.map": "/AlgorithmExplorer/static/css/2.cfdda2d9.chunk.css.map",
+    "static/css/main.bfd6572a.chunk.css.map": "/AlgorithmExplorer/static/css/main.bfd6572a.chunk.css.map",
+    "static/js/2.5523de8e.chunk.js.LICENSE.txt": "/AlgorithmExplorer/static/js/2.5523de8e.chunk.js.LICENSE.txt",
+    "static/media/15puzzle.5f6e8f37.PNG": "/AlgorithmExplorer/static/media/15puzzle.5f6e8f37.PNG",
+    "static/media/Recursion.74bc404c.jpg": "/AlgorithmExplorer/static/media/Recursion.74bc404c.jpg",
+    "static/media/binaryTree.6d8ce938.png": "/AlgorithmExplorer/static/media/binaryTree.6d8ce938.png",
+    "static/media/convexHull.2720e7cd.png": "/AlgorithmExplorer/static/media/convexHull.2720e7cd.png",
+    "static/media/graph.6e6849d5.png": "/AlgorithmExplorer/static/media/graph.6e6849d5.png",
+    "static/media/primes.72a2f33f.jpg": "/AlgorithmExplorer/static/media/primes.72a2f33f.jpg",
+    "static/media/queen.a967028b.png": "/AlgorithmExplorer/static/media/queen.a967028b.png",
+    "static/media/queen.b2332ba3.PNG": "/AlgorithmExplorer/static/media/queen.b2332ba3.PNG",
+    "static/media/queenn.a3f2c305.jpg": "/AlgorithmExplorer/static/media/queenn.a3f2c305.jpg",
+    "static/media/index.css": "/AlgorithmExplorer/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/shortest.b390c3d6.jpg": "/AlgorithmExplorer/static/media/shortest.b390c3d6.jpg",
+    "static/media/sort.117e08fc.png": "/AlgorithmExplorer/static/media/sort.117e08fc.png",
+    "static/media/sortingalgo.4e3a1709.jpg": "/AlgorithmExplorer/static/media/sortingalgo.4e3a1709.jpg",
+    "static/media/turing.ab68ef09.jpg": "/AlgorithmExplorer/static/media/turing.ab68ef09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00c057a8.js",
+    "static/css/2.cfdda2d9.chunk.css",
+    "static/js/2.5523de8e.chunk.js",
+    "static/css/main.bfd6572a.chunk.css",
+    "static/js/main.c745d028.chunk.js"
+  ]
+}
